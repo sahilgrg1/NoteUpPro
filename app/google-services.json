@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "131804263775",
+    "firebase_url": "https://noteuppro.firebaseio.com",
+    "project_id": "noteuppro",
+    "storage_bucket": "noteuppro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131804263775:android:d5750529f2ecbddc",
+        "android_client_info": {
+          "package_name": "com.example.noteuppro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131804263775-tej95kg4nimacdj2s8t6dmfq50471m2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteuppro",
+            "certificate_hash": "581956279079fa5cc8445d66866d0bbbef5d52e4"
+          }
+        },
+        {
+          "client_id": "131804263775-4eqjn4361ekk22g5bbuuh5ui0gslcm6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuq4FcmRUiHs-Pi-jC4wX_HQxyLPiwJck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131804263775-4eqjn4361ekk22g5bbuuh5ui0gslcm6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
