@@ -7,26 +7,26 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-    <com.google.android.material.textfield.TextInputLayout
+    <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-        <com.google.android.material.textfield.TextInputEditText
+        <android.support.design.widget.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/etTitle"
-                android:hint="@string/enter_the_title_here"
+                android:hint="enter_the_title_here"
                 android:inputType="text"/>
-    </com.google.android.material.textfield.TextInputLayout>
+    </android.support.design.widget.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
+    <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-        <com.google.android.material.textfield.TextInputEditText
+        <android.support.design.widget.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/etDescription"
-                android:hint="@string/enter_the_description_here"
+                android:hint="enter_the_description_here"
                 android:inputType="text"/>
-    </com.google.android.material.textfield.TextInputLayout>
+    </android.support.design.widget.TextInputLayout>
 
 </LinearLayout>
